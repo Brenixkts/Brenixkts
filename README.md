@@ -35,4 +35,4 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
-![Django](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=1572B6&labelColor=0D1117)&nbsp;
+
